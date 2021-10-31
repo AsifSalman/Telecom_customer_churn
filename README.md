@@ -1,5 +1,5 @@
 # Telecom_customer_churn
-This repository will predict the customer churn
+This repository will predict the customer churn.
 
 # What the project is about?
 The objective of this project is to apply the Supervised Learning: Decision Tree, Cross-validation and Grid Search in the Churn Dataset.
